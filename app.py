@@ -21,7 +21,7 @@ JOB = [
     'id': 1,
     'Position':'Data Engineer',
     'Location':'California, USA',
-    'Salary':'$ 120,000'
+    'Salary':'$ 130,000'
     
   }
 ]
